@@ -1,0 +1,1 @@
+INSERT INTO TBL_SUPPLIER (NAME, ACTIVE, CATEGORY, CONTACT) VALUES ('Matheus Borges',  'matheusborges123@gmail.com', '11941994692');
